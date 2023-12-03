@@ -1,5 +1,9 @@
 # Open Source AI Adoption Project
 
+100% browser based video transcription
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/890829724?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Untitled"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 This project is a demonstration of how open source AI can be integrated into products, empowering individuals to harness the power of the AI revolution.
 
 ## Key Features
@@ -9,6 +13,12 @@ This project is a demonstration of how open source AI can be integrated into pro
 - **Rapid Audio Extraction**: Our application uses vanilla JavaScript's OfflineAudioContext to rapidly extract audio data. This eliminates the need for complex libraries like FFmpeg, making our codebase simpler and more maintainable.
 
 - **Simple, Informative Interface**: We believe in the power of simplicity. Our interface is visually simple yet informative, clearly explaining what our application does and how to use it.
+
+Next steps:
+
+- [ ] allow users loading a more powerful model
+- [ ] test different languages
+- [ ] burn the subtitles on the video
 
 ## Our Mission
 
