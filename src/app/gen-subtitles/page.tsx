@@ -1,5 +1,6 @@
 "use client";
 import { Subtitle, readAudioFrom, generateSRT } from "@/lib/utils";
+import { videoToAudio } from "@/lib/video-to-audio";
 import React, {
   ChangeEvent,
   useEffect,
@@ -37,7 +38,8 @@ const Page: React.FC = () => {
   const handleFileUpload = async (event: ChangeEvent<HTMLInputElement>) => {
     const file = event.target.files?.[0];
 
-    const audio = await readAudioFrom(file!);
+    const audioBlob = await videoToAudio(file!, "mp3");
+    const audio = await readAudioFrom(audioBlob);
 
     workerRef.current?.postMessage({
       type: "INFERENCE_REQUEST",

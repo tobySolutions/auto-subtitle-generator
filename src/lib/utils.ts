@@ -1,8 +1,8 @@
-import { type ClassValue, clsx } from "clsx"
-import { twMerge } from "tailwind-merge"
+import { type ClassValue, clsx } from "clsx";
+import { twMerge } from "tailwind-merge";
 
 export function cn(...inputs: ClassValue[]) {
-  return twMerge(clsx(inputs))
+  return twMerge(clsx(inputs));
 }
 
 const MessageTypes = {
@@ -30,7 +30,7 @@ const ModelNames = {
   WHISPER_SMALL_EN: "openai/whisper-small.en",
 };
 
-async function readAudioFrom(file: File) {
+async function readAudioFrom(file: Blob) {
   const sampling_rate = 16000;
   const audioCTX = new AudioContext({ sampleRate: sampling_rate });
   const response = await file.arrayBuffer();
