@@ -1,8 +1,14 @@
 # Open Source AI Adoption Project
 
-100% browser based video transcription
+100% browser based video transcription.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/890829724?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Untitled"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+## Our Mission
+
+Our goal is to grow the adoption of open source AI in products. We believe that the AI revolution should be in the hands of the people, not just large corporations. By making AI accessible and understandable, we hope to empower individuals to create their own AI-powered solutions. We aim to expand on this demonstration and to build other products using open source AI.
+
+## Demo Video
+
+[![Demo Video](https://i.vimeocdn.com/video/123456789_1280x720.jpg)](https://player.vimeo.com/video/890829724?badge=0&autopause=0&quality_selector=1&player_id=0&app_id=58479)
 
 This project is a demonstration of how open source AI can be integrated into products, empowering individuals to harness the power of the AI revolution.
 
@@ -19,10 +25,6 @@ Next steps:
 - [ ] allow users loading a more powerful model
 - [ ] test different languages
 - [ ] burn the subtitles on the video
-
-## Our Mission
-
-Our goal is to grow the adoption of open source AI in products. We believe that the AI revolution should be in the hands of the people, not just large corporations. By making AI accessible and understandable, we hope to empower individuals to create their own AI-powered solutions.
 
 ## Getting Started
 
