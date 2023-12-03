@@ -1,5 +1,3 @@
-"use client";
-
 import { VideoTranscriptEditor } from "@/components/video-transcript-editor";
 
 export default function Home() {

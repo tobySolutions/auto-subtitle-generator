@@ -1,5 +1,5 @@
-import { createModelLoader } from "@/lib/modelFactories";
 import { MessageTypes, ModelNames } from "@/lib/utils";
+import { createModelLoader } from "../lib/modelFactories";
 
 interface ModelLoaders {
   [key: string]: ReturnType<typeof createModelLoader>;
