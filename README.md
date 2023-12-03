@@ -8,7 +8,7 @@ Our goal is to grow the adoption of open source AI in products. We believe that 
 
 ## Demo Video
 
-[![Demo Video](https://i.vimeocdn.com/video/123456789_1280x720.jpg)](https://player.vimeo.com/video/890829724?badge=0&autopause=0&quality_selector=1&player_id=0&app_id=58479)
+[![Demo Video](https://vimeo.com/890829724?share=copy)
 
 This project is a demonstration of how open source AI can be integrated into products, empowering individuals to harness the power of the AI revolution.
 
