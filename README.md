@@ -14,6 +14,12 @@ This project is a demonstration of how open source AI can be integrated into pro
 
 - **Simple, Informative Interface**: We believe in the power of simplicity. Our interface is visually simple yet informative, clearly explaining what our application does and how to use it.
 
+Next steps:
+
+- [ ] allow users loading a more powerful model
+- [ ] test different languages
+- [ ] burn the subtitles on the video
+
 ## Our Mission
 
 Our goal is to grow the adoption of open source AI in products. We believe that the AI revolution should be in the hands of the people, not just large corporations. By making AI accessible and understandable, we hope to empower individuals to create their own AI-powered solutions.
